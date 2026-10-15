@@ -1,0 +1,8 @@
+/* Custom Styles for NovaBank App */
+.nav-btn {
+  transition: all 0.2s ease-in-out;
+}
+
+.pin-input:focus {
+  border-color: #6366f1;
+}
